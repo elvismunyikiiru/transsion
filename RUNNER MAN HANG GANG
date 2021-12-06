@@ -1,0 +1,1733 @@
+ELVIS MUNYI KIIRU PEACE IAWIA
+0	"BxUlhf:/finance/_/GoogleFinanceUi:boq-finance.GoogleFinanceUi.en.2VVeesGbabI.es5.O"	
+{rc: '', Pc: 'ADAsSlwm5nnxc-wxi-2GLFFdQ-8I:1638560012582', Jc: 'HhY0jsG5SPK_sIkW/AmRB2s4NOy6jJysV-', Fa: '116498464608761075518', da: '/finance/_/GoogleFinanceUi', …}
+$a: "boq-finance.GoogleFinanceUi.en.2VVeesGbabI.es5.O"
+Fa: "116498464608761075518"
+Jc: "HhY0jsG5SPK_sIkW/AmRB2s4NOy6jJysV-"
+Pc: "ADAsSlwm5nnxc-wxi-2GLFFdQ-8I:1638560012582"
+Zc: "https://www.gstatic.com/_/mss/boq-finance/_/js/k=boq-finance.GoogleFinanceUi.en.2VVeesGbabI.es5.O/am=QEAFBhAAAACA3gk6AQAAAAAAAIgoBAAAAAAAQBMBEA/d=1/excm=_b,_tp,noopserviceworker_data/ed=1/dg=0/wt=2/esmo=1/rs=AC0raVJHgk8GAqoP1OgsBhURCIhNgqlp_w/m=_b,_tp"
+da: "/finance/_/GoogleFinanceUi"
+nc: Array(42)
+0: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2"
+1: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2"
+2: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2"
+3: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+4: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2"
+5: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2"
+6: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2"
+7: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2"
+8: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2"
+9: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2"
+10: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2"
+11: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2"
+12: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2"
+13: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2"
+14: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2"
+15: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2"
+16: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2"
+17: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2"
+18: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2"
+19: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2"
+20: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2"
+21: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2"
+22: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2"
+23: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2"
+24: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2"
+25: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2"
+26: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2"
+27: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2"
+28: "//fonts.gstatic.com/s/materialiconsextended/v109/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2"
+29: "//fonts.gstatic.com/s/googlematerialicons/v81/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2"
+30: "//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2"
+31: "//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2"
+32: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2"
+33: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2"
+34: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2"
+35: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2"
+36: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2"
+37: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2"
+38: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2"
+39: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2"
+40: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2"
+41: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2"
+length: 42
+rc: ""
+wc: Array(7)
+0: "//ssl.gstatic.com/finance/favicon/favicon.png"
+1: "//ssl.gstatic.com/finance/favicon/finance_120x120.png"
+2: "//ssl.gstatic.com/finance/favicon/finance_152x152.png"
+3: "//ssl.gstatic.com/finance/favicon/finance_167x167.png"
+4: "//ssl.gstatic.com/finance/favicon/finance_180x180.png"
+5: "//ssl.gstatic.com/finance/favicon/finance_192x192.png"
+6: "//ssl.gstatic.com/finance/favicon/finance_512x512.png"
+length: 7
+
+
+0	/s/googlematerialicons/v81/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2	cors	font/woff2	193,816	12/3/2021, 10:33:20 AM		
+1	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2	cors	font/woff2	15,620	12/3/2021, 10:33:23 AM		
+2	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2	cors	font/woff2	9,244	12/3/2021, 10:33:23 AM		
+3	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2	cors	font/woff2	10,928	12/3/2021, 10:33:23 AM		
+4	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2	cors	font/woff2	9,064	12/3/2021, 10:33:23 AM		
+5	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2	cors	font/woff2	21,464	12/3/2021, 10:03:17 AM		
+6	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2	cors	font/woff2	10,892	12/3/2021, 10:33:23 AM		
+7	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2	cors	font/woff2	9,396	12/3/2021, 10:33:23 AM		
+8	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2	cors	font/woff2	15,456	12/3/2021, 10:33:23 AM		
+9	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2	cors	font/woff2	9,116	12/3/2021, 10:33:23 AM		
+10	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2	cors	font/woff2	21,700	12/3/2021, 10:33:19 AM		
+11	/s/materialiconsextended/v109/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2	cors	font/woff2	145,308	12/3/2021, 10:33:23 AM		
+12	/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2	cors	font/woff2	31,568	12/3/2021, 10:33:19 AM		
+13	/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2	cors	font/woff2	18,436	12/3/2021, 10:33:23 AM		
+14	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2	cors	font/woff2	10,120	12/3/2021, 10:33:23 AM		
+15	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2	cors	font/woff2	15,552	12/3/2021, 10:33:19 AM		
+16	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2	cors	font/woff2	7,192	12/3/2021, 10:33:23 AM		
+17	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2	cors	font/woff2	1,536	12/3/2021, 10:33:23 AM		
+18	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2	cors	font/woff2	15,284	12/3/2021, 10:33:23 AM		
+19	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2	cors	font/woff2	11,804	12/3/2021, 10:33:23 AM		
+20	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2	cors	font/woff2	5,284	12/3/2021, 10:33:23 AM		
+21	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2	cors	font/woff2	9,748	12/3/2021, 10:33:23 AM		
+22	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2	cors	font/woff2	15,440	12/3/2021, 10:33:23 AM		
+23	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2	cors	font/woff2	7,304	12/3/2021, 10:33:23 AM		
+24	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2	cors	font/woff2	1,512	12/3/2021, 10:33:23 AM		
+25	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2	cors	font/woff2	15,168	12/3/2021, 10:33:23 AM		
+26	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2	cors	font/woff2	11,800	12/3/2021, 10:33:23 AM		
+27	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2	cors	font/woff2	5,192	12/3/2021, 10:33:23 AM		
+28	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2	cors	font/woff2	9,832	12/3/2021, 10:33:23 AM		
+29	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2	cors	font/woff2	15,436	12/3/2021, 10:33:19 AM		
+30	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2	cors	font/woff2	7,060	12/3/2021, 10:33:23 AM		
+31	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2	cors	font/woff2	1,456	12/3/2021, 10:33:23 AM		
+32	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2	cors	font/woff2	14,928	12/3/2021, 10:33:23 AM		
+33	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2	cors	font/woff2	11,772	12/3/2021, 10:33:23 AM		
+34	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2	cors	font/woff2	5,164	12/3/2021, 10:33:23 AM		
+35	/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2	cors	font/woff2	7,276	12/3/2021, 10:33:23 AM		
+36	/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2	cors	font/woff2	15,344	12/3/2021, 10:03:25 AM		
+37	/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2	cors	font/woff2	9,832	12/3/2021, 10:33:23 AM		
+38	/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2	cors	font/woff2	15,500	12/3/2021, 10:33:23 AM		
+39	/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2	cors	font/woff2	11,936	12/3/2021, 10:33:23 AM		
+40	/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2	cors	font/woff2	5,224	12/3/2021, 10:33:23 AM		
+41	/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2	cors	font/woff2	1,544	12/3/2021, 10:33:23 AM		
+42	/finance/_/GoogleFinanceUi/offline/	basic	text/html; charset=utf-8	0	12/3/2021, 10:33:22 AM	Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site	
+
+
+
+Request URL: https://fonts.gstatic.com/s/googlematerialicons/v81/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571601
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 193816
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:46:48 GMT
+expires: Sun, 27 Nov 2022 04:46:48 GMT
+last-modified: Wed, 01 Sep 2021 18:08:28 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 329013
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15620
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:10:00 GMT
+expires: Wed, 30 Nov 2022 00:10:00 GMT
+last-modified: Mon, 22 Apr 2019 23:42:59 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570179
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9244
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:10:34 GMT
+expires: Sun, 27 Nov 2022 05:10:34 GMT
+last-modified: Mon, 22 Apr 2019 23:42:57 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569798
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 10928
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:16:55 GMT
+expires: Sun, 27 Nov 2022 05:16:55 GMT
+last-modified: Mon, 22 Apr 2019 23:42:55 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570463
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9064
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:05:50 GMT
+expires: Sun, 27 Nov 2022 05:05:50 GMT
+last-modified: Mon, 22 Apr 2019 23:43:02 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 325821
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 21464
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:33:06 GMT
+expires: Wed, 30 Nov 2022 00:33:06 GMT
+last-modified: Mon, 22 Apr 2019 23:42:59 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571378
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 10892
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:50:35 GMT
+expires: Sun, 27 Nov 2022 04:50:35 GMT
+last-modified: Mon, 22 Apr 2019 23:43:01 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569924
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9396
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:14:49 GMT
+expires: Sun, 27 Nov 2022 05:14:49 GMT
+last-modified: Mon, 22 Apr 2019 23:43:27 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571239
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15456
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:52:54 GMT
+expires: Sun, 27 Nov 2022 04:52:54 GMT
+last-modified: Mon, 22 Apr 2019 23:43:20 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 328979
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9116
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:10:34 GMT
+expires: Wed, 30 Nov 2022 00:10:34 GMT
+last-modified: Mon, 22 Apr 2019 23:43:23 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 327623
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 21700
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:33:06 GMT
+expires: Wed, 30 Nov 2022 00:33:06 GMT
+last-modified: Mon, 22 Apr 2019 23:43:33 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/materialiconsextended/v109/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571685
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 145308
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:45:28 GMT
+expires: Sun, 27 Nov 2022 04:45:28 GMT
+last-modified: Wed, 01 Sep 2021 18:06:17 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 329564
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 31568
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:00:45 GMT
+expires: Wed, 30 Nov 2022 00:00:45 GMT
+last-modified: Mon, 15 Aug 2016 20:30:17 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570048
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 18436
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:12:45 GMT
+expires: Sun, 27 Nov 2022 05:12:45 GMT
+last-modified: Mon, 15 Aug 2016 20:30:16 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569986
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 10120
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:13:46 GMT
+expires: Sun, 27 Nov 2022 05:13:46 GMT
+last-modified: Mon, 16 Oct 2017 17:33:00 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571177
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15552
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:53:52 GMT
+expires: Sun, 27 Nov 2022 04:53:52 GMT
+last-modified: Mon, 16 Oct 2017 17:33:02 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 329296
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 7192
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:05:16 GMT
+expires: Wed, 30 Nov 2022 00:05:16 GMT
+last-modified: Mon, 16 Oct 2017 17:32:54 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 328371
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 1536
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:20:41 GMT
+expires: Wed, 30 Nov 2022 00:20:41 GMT
+last-modified: Mon, 16 Oct 2017 17:32:57 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 327663
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15284
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:32:29 GMT
+expires: Wed, 30 Nov 2022 00:32:29 GMT
+last-modified: Mon, 16 Oct 2017 17:32:54 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569988
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 11804
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:13:44 GMT
+expires: Sun, 27 Nov 2022 05:13:44 GMT
+last-modified: Mon, 16 Oct 2017 17:32:58 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569927
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 5284
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:14:45 GMT
+expires: Sun, 27 Nov 2022 05:14:45 GMT
+last-modified: Mon, 16 Oct 2017 17:32:49 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569379
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9748
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:23:54 GMT
+expires: Sun, 27 Nov 2022 05:23:54 GMT
+last-modified: Mon, 16 Oct 2017 17:32:43 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570292
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15440
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:08:41 GMT
+expires: Sun, 27 Nov 2022 05:08:41 GMT
+last-modified: Mon, 16 Oct 2017 17:32:43 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+0	"BxUlhf:/finance/_/GoogleFinanceUi:boq-finance.GoogleFinanceUi.en.2VVeesGbabI.es5.O"	
+{rc: '', Pc: 'ADAsSlwm5nnxc-wxi-2GLFFdQ-8I:1638560012582', Jc: 'HhY0jsG5SPK_sIkW/AmRB2s4NOy6jJysV-', Fa: '116498464608761075518', da: '/finance/_/GoogleFinanceUi', …}
+$a: "boq-finance.GoogleFinanceUi.en.2VVeesGbabI.es5.O"
+Fa: "116498464608761075518"
+Jc: "HhY0jsG5SPK_sIkW/AmRB2s4NOy6jJysV-"
+Pc: "ADAsSlwm5nnxc-wxi-2GLFFdQ-8I:1638560012582"
+Zc: "https://www.gstatic.com/_/mss/boq-finance/_/js/k=boq-finance.GoogleFinanceUi.en.2VVeesGbabI.es5.O/am=QEAFBhAAAACA3gk6AQAAAAAAAIgoBAAAAAAAQBMBEA/d=1/excm=_b,_tp,noopserviceworker_data/ed=1/dg=0/wt=2/esmo=1/rs=AC0raVJHgk8GAqoP1OgsBhURCIhNgqlp_w/m=_b,_tp"
+da: "/finance/_/GoogleFinanceUi"
+nc: Array(42)
+0: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2"
+1: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2"
+2: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2"
+3: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+4: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2"
+5: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2"
+6: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2"
+7: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2"
+8: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2"
+9: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2"
+10: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2"
+11: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2"
+12: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2"
+13: "//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2"
+14: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2"
+15: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2"
+16: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2"
+17: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2"
+18: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2"
+19: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2"
+20: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2"
+21: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2"
+22: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2"
+23: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2"
+24: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2"
+25: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2"
+26: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2"
+27: "//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2"
+28: "//fonts.gstatic.com/s/materialiconsextended/v109/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2"
+29: "//fonts.gstatic.com/s/googlematerialicons/v81/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2"
+30: "//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2"
+31: "//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2"
+32: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2"
+33: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2"
+34: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2"
+35: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2"
+36: "//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2"
+37: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2"
+38: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2"
+39: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2"
+40: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2"
+41: "//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2"
+length: 42
+rc: ""
+wc: Array(7)
+0: "//ssl.gstatic.com/finance/favicon/favicon.png"
+1: "//ssl.gstatic.com/finance/favicon/finance_120x120.png"
+2: "//ssl.gstatic.com/finance/favicon/finance_152x152.png"
+3: "//ssl.gstatic.com/finance/favicon/finance_167x167.png"
+4: "//ssl.gstatic.com/finance/favicon/finance_180x180.png"
+5: "//ssl.gstatic.com/finance/favicon/finance_192x192.png"
+6: "//ssl.gstatic.com/finance/favicon/finance_512x512.png"
+length: 7
+
+0	/s/googlematerialicons/v81/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2	cors	font/woff2	193,816	12/3/2021, 10:33:20 AM		
+1	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2	cors	font/woff2	15,620	12/3/2021, 10:33:23 AM		
+2	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2	cors	font/woff2	9,244	12/3/2021, 10:33:23 AM		
+3	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2	cors	font/woff2	10,928	12/3/2021, 10:33:23 AM		
+4	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2	cors	font/woff2	9,064	12/3/2021, 10:33:23 AM		
+5	/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2	cors	font/woff2	21,464	12/3/2021, 10:03:17 AM		
+6	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2	cors	font/woff2	10,892	12/3/2021, 10:33:23 AM		
+7	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2	cors	font/woff2	9,396	12/3/2021, 10:33:23 AM		
+8	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2	cors	font/woff2	15,456	12/3/2021, 10:33:23 AM		
+9	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2	cors	font/woff2	9,116	12/3/2021, 10:33:23 AM		
+10	/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2	cors	font/woff2	21,700	12/3/2021, 10:33:19 AM		
+11	/s/materialiconsextended/v109/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2	cors	font/woff2	145,308	12/3/2021, 10:33:23 AM		
+12	/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2	cors	font/woff2	31,568	12/3/2021, 10:33:19 AM		
+13	/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2	cors	font/woff2	18,436	12/3/2021, 10:33:23 AM		
+14	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2	cors	font/woff2	10,120	12/3/2021, 10:33:23 AM		
+15	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2	cors	font/woff2	15,552	12/3/2021, 10:33:19 AM		
+16	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2	cors	font/woff2	7,192	12/3/2021, 10:33:23 AM		
+17	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2	cors	font/woff2	1,536	12/3/2021, 10:33:23 AM		
+18	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2	cors	font/woff2	15,284	12/3/2021, 10:33:23 AM		
+19	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2	cors	font/woff2	11,804	12/3/2021, 10:33:23 AM		
+20	/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2	cors	font/woff2	5,284	12/3/2021, 10:33:23 AM		
+21	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2	cors	font/woff2	9,748	12/3/2021, 10:33:23 AM		
+22	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2	cors	font/woff2	15,440	12/3/2021, 10:33:23 AM		
+23	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2	cors	font/woff2	7,304	12/3/2021, 10:33:23 AM		
+24	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2	cors	font/woff2	1,512	12/3/2021, 10:33:23 AM		
+25	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2	cors	font/woff2	15,168	12/3/2021, 10:33:23 AM		
+26	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2	cors	font/woff2	11,800	12/3/2021, 10:33:23 AM		
+27	/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2	cors	font/woff2	5,192	12/3/2021, 10:33:23 AM		
+28	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2	cors	font/woff2	9,832	12/3/2021, 10:33:23 AM		
+29	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2	cors	font/woff2	15,436	12/3/2021, 10:33:19 AM		
+30	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2	cors	font/woff2	7,060	12/3/2021, 10:33:23 AM		
+31	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2	cors	font/woff2	1,456	12/3/2021, 10:33:23 AM		
+32	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2	cors	font/woff2	14,928	12/3/2021, 10:33:23 AM		
+33	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2	cors	font/woff2	11,772	12/3/2021, 10:33:23 AM		
+34	/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2	cors	font/woff2	5,164	12/3/2021, 10:33:23 AM		
+35	/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2	cors	font/woff2	7,276	12/3/2021, 10:33:23 AM		
+36	/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2	cors	font/woff2	15,344	12/3/2021, 10:03:25 AM		
+37	/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2	cors	font/woff2	9,832	12/3/2021, 10:33:23 AM		
+38	/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2	cors	font/woff2	15,500	12/3/2021, 10:33:23 AM		
+39	/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2	cors	font/woff2	11,936	12/3/2021, 10:33:23 AM		
+40	/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2	cors	font/woff2	5,224	12/3/2021, 10:33:23 AM		
+41	/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2	cors	font/woff2	1,544	12/3/2021, 10:33:23 AM		
+42	/finance/_/GoogleFinanceUi/offline/	basic	text/html; charset=utf-8	0	12/3/2021, 10:33:22 AM	Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site	
+
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570763
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 5224
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:00:49 GMT
+expires: Sun, 27 Nov 2022 05:00:49 GMT
+last-modified: Mon, 16 Oct 2017 17:32:55 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570099
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 1544
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:11:53 GMT
+expires: Sun, 27 Nov 2022 05:11:53 GMT
+last-modified: Mon, 16 Oct 2017 17:32:51 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 327626
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 11936
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:33:06 GMT
+expires: Wed, 30 Nov 2022 00:33:06 GMT
+last-modified: Mon, 16 Oct 2017 17:33:01 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 327663
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15500
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:32:29 GMT
+expires: Wed, 30 Nov 2022 00:32:29 GMT
+last-modified: Mon, 16 Oct 2017 17:32:52 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 329664
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9832
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Mon, 29 Nov 2021 23:59:08 GMT
+expires: Tue, 29 Nov 2022 23:59:08 GMT
+last-modified: Mon, 16 Oct 2017 17:32:49 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571179
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 7276
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:53:53 GMT
+expires: Sun, 27 Nov 2022 04:53:53 GMT
+last-modified: Mon, 16 Oct 2017 17:32:54 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 245405
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15344
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 22:53:29 GMT
+expires: Wed, 30 Nov 2022 22:53:29 GMT
+last-modified: Mon, 16 Oct 2017 17:32:55 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 329660
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 5164
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Mon, 29 Nov 2021 23:59:13 GMT
+expires: Tue, 29 Nov 2022 23:59:13 GMT
+last-modified: Mon, 16 Oct 2017 17:33:09 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+equest URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570180
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 14928
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:10:33 GMT
+expires: Sun, 27 Nov 2022 05:10:33 GMT
+last-modified: Mon, 16 Oct 2017 17:33:08 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 328596
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 11772
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:16:57 GMT
+expires: Wed, 30 Nov 2022 00:16:57 GMT
+last-modified: Mon, 16 Oct 2017 17:33:06 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 328041
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 1456
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:26:12 GMT
+expires: Wed, 30 Nov 2022 00:26:12 GMT
+last-modified: Mon, 16 Oct 2017 17:33:10 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 329006
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 7060
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:10:07 GMT
+expires: Wed, 30 Nov 2022 00:10:07 GMT
+last-modified: Mon, 16 Oct 2017 17:33:05 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 247190
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15436
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 22:53:39 GMT
+expires: Wed, 30 Nov 2022 22:53:39 GMT
+last-modified: Mon, 16 Oct 2017 17:33:12 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 330351
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9832
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Mon, 29 Nov 2021 23:47:42 GMT
+expires: Tue, 29 Nov 2022 23:47:42 GMT
+last-modified: Mon, 16 Oct 2017 17:33:04 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+quest URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569984
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 5192
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:13:49 GMT
+expires: Sun, 27 Nov 2022 05:13:49 GMT
+last-modified: Mon, 16 Oct 2017 17:32:43 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571381
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15168
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:50:32 GMT
+expires: Sun, 27 Nov 2022 04:50:32 GMT
+last-modified: Mon, 16 Oct 2017 17:32:44 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 329965
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 11800
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Mon, 29 Nov 2021 23:54:08 GMT
+expires: Tue, 29 Nov 2022 23:54:08 GMT
+last-modified: Mon, 16 Oct 2017 17:32:43 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 327360
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 1512
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:37:33 GMT
+expires: Wed, 30 Nov 2022 00:37:33 GMT
+last-modified: Mon, 16 Oct 2017 17:32:46 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571381
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 7304
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:50:32 GMT
+expires: Sun, 27 Nov 2022 04:50:32 GMT
+last-modified: Mon, 16 Oct 2017 17:32:46 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570292
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15440
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:08:41 GMT
+expires: Sun, 27 Nov 2022 05:08:41 GMT
+last-modified: Mon, 16 Oct 2017 17:32:43 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569379
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9748
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:23:54 GMT
+expires: Sun, 27 Nov 2022 05:23:54 GMT
+last-modified: Mon, 16 Oct 2017 17:32:43 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569927
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 5284
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:14:45 GMT
+expires: Sun, 27 Nov 2022 05:14:45 GMT
+last-modified: Mon, 16 Oct 2017 17:32:49 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 327663
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15284
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:32:29 GMT
+expires: Wed, 30 Nov 2022 00:32:29 GMT
+last-modified: Mon, 16 Oct 2017 17:32:54 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569988
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 11804
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:13:44 GMT
+expires: Sun, 27 Nov 2022 05:13:44 GMT
+last-modified: Mon, 16 Oct 2017 17:32:58 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 328371
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 1536
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:20:41 GMT
+expires: Wed, 30 Nov 2022 00:20:41 GMT
+last-modified: Mon, 16 Oct 2017 17:32:57 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 329296
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 7192
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:05:16 GMT
+expires: Wed, 30 Nov 2022 00:05:16 GMT
+last-modified: Mon, 16 Oct 2017 17:32:54 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571177
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15552
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:53:52 GMT
+expires: Sun, 27 Nov 2022 04:53:52 GMT
+last-modified: Mon, 16 Oct 2017 17:33:02 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+
+Request URL: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569986
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 10120
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:13:46 GMT
+expires: Sun, 27 Nov 2022 05:13:46 GMT
+last-modified: Mon, 16 Oct 2017 17:33:00 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570048
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 18436
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:12:45 GMT
+expires: Sun, 27 Nov 2022 05:12:45 GMT
+last-modified: Mon, 15 Aug 2016 20:30:16 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 329564
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 31568
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:00:45 GMT
+expires: Wed, 30 Nov 2022 00:00:45 GMT
+last-modified: Mon, 15 Aug 2016 20:30:17 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/materialiconsextended/v109/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571685
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 145308
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:45:28 GMT
+expires: Sun, 27 Nov 2022 04:45:28 GMT
+last-modified: Wed, 01 Sep 2021 18:06:17 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 325821
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 21464
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:33:06 GMT
+expires: Wed, 30 Nov 2022 00:33:06 GMT
+last-modified: Mon, 22 Apr 2019 23:42:59 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570463
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9064
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:05:50 GMT
+expires: Sun, 27 Nov 2022 05:05:50 GMT
+last-modified: Mon, 22 Apr 2019 23:43:02 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569798
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 10928
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:16:55 GMT
+expires: Sun, 27 Nov 2022 05:16:55 GMT
+last-modified: Mon, 22 Apr 2019 23:42:55 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 570179
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9244
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:10:34 GMT
+expires: Sun, 27 Nov 2022 05:10:34 GMT
+last-modified: Mon, 22 Apr 2019 23:42:57 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 329013
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15620
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:10:00 GMT
+expires: Wed, 30 Nov 2022 00:10:00 GMT
+last-modified: Mon, 22 Apr 2019 23:42:59 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 327623
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 21700
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:33:06 GMT
+expires: Wed, 30 Nov 2022 00:33:06 GMT
+last-modified: Mon, 22 Apr 2019 23:43:33 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 328979
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9116
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Tue, 30 Nov 2021 00:10:34 GMT
+expires: Wed, 30 Nov 2022 00:10:34 GMT
+last-modified: Mon, 22 Apr 2019 23:43:23 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571239
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 15456
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:52:54 GMT
+expires: Sun, 27 Nov 2022 04:52:54 GMT
+last-modified: Mon, 22 Apr 2019 23:43:20 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 569924
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 9396
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 05:14:49 GMT
+expires: Sun, 27 Nov 2022 05:14:49 GMT
+last-modified: Mon, 22 Apr 2019 23:43:27 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571378
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 10892
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:50:35 GMT
+expires: Sun, 27 Nov 2022 04:50:35 GMT
+last-modified: Mon, 22 Apr 2019 23:43:01 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://fonts.gstatic.com/s/googlematerialicons/v81/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2
+Request Method: GET
+Status Code: 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 571601
+alt-svc: h3=":443"; ma=2592000
+cache-control: public, max-age=31536000
+content-length: 193816
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes
+content-type: font/woff2
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"
+cross-origin-resource-policy: cross-origin
+date: Sat, 27 Nov 2021 04:46:48 GMT
+expires: Sun, 27 Nov 2022 04:46:48 GMT
+last-modified: Wed, 01 Sep 2021 18:08:28 GMT
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}
+server: sffe
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-xss-protection: 0
+
+
+Request URL: https://www.google.com/finance/_/GoogleFinanceUi/offline/
+Request Method: GET
+Status Code: 200 
+alt-svc: h3=":443"; ma=2592000
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-security-policy: script-src 'report-sample' 'nonce-43852X07ECeTpM9//Se63A' 'unsafe-inline' https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; object-src 'none'; base-uri 'self'; report-uri /finance/_/GoogleFinanceUi/cspreport; worker-src 'self', script-src 'nonce-43852X07ECeTpM9//Se63A' 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com https://cdn.ampproject.org/rtv/ https://www.googleapis.com/appsmarket/v2/installedApps/ https://gc.kis.v2.scr.kaspersky-labs.com wss://gc.kis.v2.scr.kaspersky-labs.com; report-uri /finance/_/GoogleFinanceUi/cspreport
+content-security-policy-report-only: require-trusted-types-for 'script';report-uri /finance/_/GoogleFinanceUi/cspreport
+content-type: text/html; charset=utf-8
+cross-origin-opener-policy: same-origin-allow-popups
+cross-origin-resource-policy: same-site
+date: Fri, 03 Dec 2021 19:33:31 GMT
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+pragma: no-cache
+server: ESF
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
